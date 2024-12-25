@@ -235,11 +235,10 @@
   * There hasn't been a successful **breakout** from the state prison in more than 25 years.
   * Rioting **broke out** after the general canceled the election.
 * **catch up (with)** 追上；(**caught up**) 追赶上了的；【**catch up (on)**】补学；
-
   * After missing several weeks of class, Raquel is so far behind that she'll never **catch up**.
   * Pepsi has **caught up with** Coca-Cola in some markets.
   * I worked hard and now I'm **caught up**.
-  * After I returned from vacation, I read the newspaper to **catch up** on the local news.
+  * After I returned from vacation, I read the newspaper to **catch up on** the local news.
 * **chicken out (of)** 退缩
 
   * I was going to ask Heather to go to the dance with me, but I **chickened out**.

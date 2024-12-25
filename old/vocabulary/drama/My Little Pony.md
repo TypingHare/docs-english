@@ -1,5 +1,3 @@
-# My Little Pony
-
 ## Idioms
 
 ==give me a break== 饶了我吧
@@ -520,25 +518,51 @@
 
 
 
-| English                             | Chinese               |
-| ----------------------------------- | --------------------- |
-| speaking of this                    | 说到这个              |
-| It is nice to be a pet **for once** | 当一次宠物真好        |
-| I brought this upon you             | 是我害了你们          |
-| whisk up                            | 打发；搅拌            |
-| I'll pass                           | 我还是算了吧          |
-| hold out                            | 坚持                  |
-| savvy business person               | 精明的生意人          |
-| I take it from your reaction that   | 我从你的反应中看出... |
-| grand opening                       | 盛大开幕              |
-| right on the spot                   | 当场；立即            |
-| in the fashion biz                  | 在时尚界              |
-| stick/put a pin in it               | 暂时搁置；按下不表    |
-| step on one's toes                  | 蹬鼻子上脸；冒犯      |
-| desperate to get this               | 求之不得；急不可待    |
-| finishing touch                     |                       |
-
-
+| English                                   | Chinese                  |
+| ----------------------------------------- | ------------------------ |
+| speaking of this                          | 说到这个                 |
+| It is nice to be a pet **for once**       | 当一次宠物真好           |
+| I brought this upon you                   | 是我害了你们             |
+| whisk up                                  | 打发；搅拌               |
+| I'll pass                                 | 我还是算了吧             |
+| hold out                                  | 坚持                     |
+| savvy business person                     | 精明的生意人             |
+| I take it from your reaction that         | 我从你的反应中看出...    |
+| grand opening                             | 盛大开幕                 |
+| right on the spot                         | 当场；立即               |
+| in the fashion biz                        | 在时尚界                 |
+| stick/put a pin in it                     | 暂时搁置；按下不表       |
+| step on one's toes                        | 蹬鼻子上脸；冒犯         |
+| desperate to get this                     | 求之不得；急不可待       |
+| finishing touch                           | 点睛之笔                 |
+| shelve all the books                      | 把所有书搁置起来         |
+| inside joke                               | 小圈子笑话               |
+| catch you later                           | 回头见                   |
+| sabbatical                                | 带薪的学习假期           |
+| come along                                | 一起来                   |
+| reminisce about                           | 回忆...                  |
+| lasting bond with friends                 | 与朋友的持久联系         |
+| miss out on (sth)                         | 错过...                  |
+| come to pass                              | 应验                     |
+| get it out                                | 把这个说出来             |
+| stand out                                 | 脱颖而出                 |
+| he makes a good point                     | 他说得好                 |
+| drop this whole thing                     | 不再提这件事             |
+| bright and early                          | 一大早                   |
+| downright evil                            | 彻头彻尾的邪恶           |
+| he is up to something                     | 他在做某事               |
+| in the name of science                    | 以科学之名               |
+| I think these jokes have run their course | 我觉得这些玩笑已经开过了 |
+| call off                                  | 叫停                     |
+| impartial third party                     | 公正的第三方             |
+| holler about sth.                         | 抱怨                     |
+| slingshot                                 | 弹弓                     |
+| common ground                             | 共同点                   |
+| bond over                                 | 结盟                     |
+| feud                                      | 世仇                     |
+| make amends between you two               | （让你们）和好如初       |
+| come to an understanding                  | 达成共识                 |
+|                                           |                          |
 
 
 ## Excerpt
